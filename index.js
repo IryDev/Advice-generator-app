@@ -11,7 +11,7 @@ function getAdvice() {
     .then((data) => {
       const slip = data.slip;
       adviceId.innerHTML = slip.id;
-      advice.innerHTML = slip.advice;
+      advice.innerHTML = `"${slip.advice}"`;
     });
 }
 
