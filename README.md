@@ -34,12 +34,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img width="1371" alt="frontendmentor advice generator app IryDev" src="https://github.com/IryDev/Advice-generator-app/assets/86270481/7680a254-3f6a-4ad7-ae96-dee15ed9c2da">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-app-Q_xBcTFWw7)
+- Live Site URL: [Add live site URL here](https://irydev.github.io/Advice-generator-app/)
 
 ## My process
 
@@ -50,11 +50,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- [TailwindCSS](https://tailwindcss.com/) - CSS framework
 
 ### What I learned
 
@@ -95,11 +91,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [IryCode](https://irydev.github.io/CV)
+- Frontend Mentor - [@IryDev](https://www.frontendmentor.io/profile/IryDev)
 
 ## Acknowledgments
 
